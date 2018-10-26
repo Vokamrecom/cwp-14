@@ -1,0 +1,41 @@
+[  {
+    "id": 1,
+    "name": "Charlize Theron",
+    "birth": "07.08.1975",
+    "films": 195,
+    "liked": 7002,
+    "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_730.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Matt",
+    "birth": "08.10.1970",
+    "films": 228,
+    "liked": 0,
+    "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6458.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tom Hanks",
+    "birth": "09.07.1956",
+    "films": 342,
+    "liked": 13302,
+    "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_9144.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Matt Damon",
+    "birth": "08.10.1970",
+    "films": 228,
+    "liked": 5994,
+    "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6458.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Damon",
+    "birth": "08.10.1970",
+    "films": 228,
+    "liked": 0,
+    "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6458.jpg"
+  }
+]
