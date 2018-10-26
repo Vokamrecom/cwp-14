@@ -1,0 +1,7 @@
+{
+  "db" : "features",
+  "login" : "root",
+  "password" : "1113",
+  "host" : "localhost",
+  "dialect" : "mysql"
+}
